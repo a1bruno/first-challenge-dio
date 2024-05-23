@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Primeiro Desafio DIO</string>
+    <string name="screen_text">Vou me tornar um desenvolvedor Android!</string>
 </resources>
